@@ -1,4 +1,4 @@
-# Trigger_Forest
+# MDPP_Forest
 
 ## Potential Contribution
 1. vector based treatment structure with continuous elements
