@@ -1,4 +1,4 @@
-# MDPP_Forest ## WIP
+# MDPP_Forest 
 Sizhe Yu, Ziyi Liu et al. "MDP2 Forest: A Constrained Continuous Multi-dimensional Policy Optimization Approach for Short-video Recommendation", SIGKDD 2022.
 
 Our method is based on and adapted from: https://github.com/edgeslab/CTL
