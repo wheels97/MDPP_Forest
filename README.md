@@ -11,6 +11,6 @@ Our method is based on and adapted from: https://github.com/edgeslab/CTL
 
 ## Demo Code
 This notebook shows the data genrating and the usage of our method 
-"""
+""" 
 Simulation.ipynb
 """
