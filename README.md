@@ -22,3 +22,4 @@ or
 ```
 from CTL.CTL_MT_testNl_Weigh import CausalTree
 ```
+There provides the examples of training a single tree and training multiple trees.
