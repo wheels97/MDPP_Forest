@@ -14,4 +14,11 @@ This notebook shows the data genrating and the usage of our method
 ```
 Simulation.ipynb
 ```
-
+You can select both method by using 
+```
+from CTL.CTL_MT_testFC import CausalTree
+``` 
+or
+```
+from CTL.CTL_MT_testNl_Weigh import CausalTree
+```
